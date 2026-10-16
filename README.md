@@ -1,4 +1,4 @@
-# Curso Gilead — Escola Virtual (protótipo)
+# Curso Gilead — Escola Virtual 
 
 ## Conteúdo
 - `index.html`: site responsivo em HTML, CSS e JavaScript, sem dependências externas.
